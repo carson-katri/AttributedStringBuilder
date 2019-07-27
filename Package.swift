@@ -21,8 +21,5 @@ let package = Package(
         .target(
             name: "AttributedStringBuilder",
             dependencies: []),
-        .testTarget(
-            name: "AttributedStringBuilderTests",
-            dependencies: ["AttributedStringBuilder"]),
     ]
 )
