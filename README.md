@@ -14,6 +14,15 @@ NSAttributedString {
 }
 ```
 
+### Installation
+You can install it via the Swift Package Manager in Xcode 11.
+
+Go to File > Swift Packages > Add Package Dependency...
+
+In the text field paste the following: `https://github.com/carson-katri/AttributedStringBuilder`.
+
+### Documentation
+
 Available modifiers:
 
 * `foregroundColor`
